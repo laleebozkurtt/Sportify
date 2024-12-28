@@ -1,0 +1,865 @@
+FitnessLevel,Goal,TargetArea,Exercise,Sets,Reps
+Beginner,Muscle Gain,Arms,Squat Push-Up,4,8
+Beginner,Muscle Gain,Arms,Squat Push-Up,4,10
+Intermediate,Muscle Gain,Arms,Squat Push-Up,4,6
+Intermediate,Muscle Gain,Arms,Squat Push-Up,4,8
+Advanced,Muscle Gain,Arms,Squat Push-Up,4,4
+Advanced,Muscle Gain,Arms,Squat Push-Up,4,6
+Beginner,Muscle Gain,Arms,Plank,3,20
+Beginner,Muscle Gain,Arms,Plank,3,30
+Intermediate,Muscle Gain,Arms,Plank,3,30
+Intermediate,Muscle Gain,Arms,Plank,3,45
+Advanced,Muscle Gain,Arms,Plank,3,15
+Advanced,Muscle Gain,Arms,Plank,3,20
+Beginner,Muscle Gain,Arms,Bridge,4,8
+Beginner,Muscle Gain,Arms,Bridge,4,10
+Intermediate,Muscle Gain,Arms,Bridge,4,6
+Intermediate,Muscle Gain,Arms,Bridge,4,8
+Advanced,Muscle Gain,Arms,Bridge,4,4
+Advanced,Muscle Gain,Arms,Bridge,4,6
+Beginner,Muscle Gain,Arms,Side Plank,3,15
+Beginner,Muscle Gain,Arms,Side Plank,3,20
+Intermediate,Muscle Gain,Arms,Side Plank,3,20
+Intermediate,Muscle Gain,Arms,Side Plank,3,30
+Advanced,Muscle Gain,Arms,Side Plank,3,10
+Advanced,Muscle Gain,Arms,Side Plank,3,15
+Beginner,Muscle Gain,Arms,Arm Raise,4,8
+Beginner,Muscle Gain,Arms,Arm Raise,4,10
+Intermediate,Muscle Gain,Arms,Arm Raise,4,6
+Intermediate,Muscle Gain,Arms,Arm Raise,4,8
+Advanced,Muscle Gain,Arms,Arm Raise,4,4
+Advanced,Muscle Gain,Arms,Arm Raise,4,6
+Beginner,Muscle Gain,Arms,Leg Raise,4,8
+Beginner,Muscle Gain,Arms,Leg Raise,4,10
+Intermediate,Muscle Gain,Arms,Leg Raise,4,6
+Intermediate,Muscle Gain,Arms,Leg Raise,4,8
+Advanced,Muscle Gain,Arms,Leg Raise,4,4
+Advanced,Muscle Gain,Arms,Leg Raise,4,6
+Beginner,Muscle Gain,Arms,Side Lunge,4,8
+Beginner,Muscle Gain,Arms,Side Lunge,4,10
+Intermediate,Muscle Gain,Arms,Side Lunge,4,6
+Intermediate,Muscle Gain,Arms,Side Lunge,4,8
+Advanced,Muscle Gain,Arms,Side Lunge,4,4
+Advanced,Muscle Gain,Arms,Side Lunge,4,6
+Beginner,Muscle Gain,Arms,Standing Toe Touch,3,15
+Beginner,Muscle Gain,Arms,Standing Toe Touch,3,20
+Intermediate,Muscle Gain,Arms,Standing Toe Touch,3,20
+Intermediate,Muscle Gain,Arms,Standing Toe Touch,3,30
+Advanced,Muscle Gain,Arms,Standing Toe Touch,3,10
+Advanced,Muscle Gain,Arms,Standing Toe Touch,3,15
+Beginner,Muscle Gain,Arms,Deadlift,4,8
+Beginner,Muscle Gain,Arms,Deadlift,4,10
+Intermediate,Muscle Gain,Arms,Deadlift,4,4
+Intermediate,Muscle Gain,Arms,Deadlift,4,6
+Advanced,Muscle Gain,Arms,Deadlift,4,4
+Advanced,Muscle Gain,Arms,Deadlift,4,5
+Beginner,Muscle Gain,Arms,Triceps Dip,4,8
+Beginner,Muscle Gain,Arms,Triceps Dip,4,10
+Intermediate,Muscle Gain,Arms,Triceps Dip,4,6
+Intermediate,Muscle Gain,Arms,Triceps Dip,4,8
+Advanced,Muscle Gain,Arms,Triceps Dip,4,4
+Advanced,Muscle Gain,Arms,Triceps Dip,4,6
+Beginner,Muscle Gain,Arms,Shoulder Press,4,8
+Beginner,Muscle Gain,Arms,Shoulder Press,4,10
+Intermediate,Muscle Gain,Arms,Shoulder Press,4,6
+Intermediate,Muscle Gain,Arms,Shoulder Press,4,8
+Advanced,Muscle Gain,Arms,Shoulder Press,4,4
+Advanced,Muscle Gain,Arms,Shoulder Press,4,6
+Beginner,Muscle Gain,Arms,Calf Raise,4,10
+Beginner,Muscle Gain,Arms,Calf Raise,4,12
+Intermediate,Muscle Gain,Arms,Calf Raise,4,8
+Intermediate,Muscle Gain,Arms,Calf Raise,4,10
+Advanced,Muscle Gain,Arms,Calf Raise,4,8
+Advanced,Muscle Gain,Arms,Calf Raise,4,10
+Beginner,Strength Building,Back,Squat Push-Up,4,8
+Beginner,Strength Building,Back,Squat Push-Up,4,10
+Intermediate,Strength Building,Back,Squat Push-Up,4,6
+Intermediate,Strength Building,Back,Squat Push-Up,4,8
+Advanced,Strength Building,Back,Squat Push-Up,4,4
+Advanced,Strength Building,Back,Squat Push-Up,4,6
+Beginner,Strength Building,Back,Plank,3,20
+Beginner,Strength Building,Back,Plank,3,30
+Intermediate,Strength Building,Back,Plank,3,30
+Intermediate,Strength Building,Back,Plank,3,45
+Advanced,Strength Building,Back,Plank,3,15
+Advanced,Strength Building,Back,Plank,3,20
+Beginner,Strength Building,Back,Bridge,4,8
+Beginner,Strength Building,Back,Bridge,4,10
+Intermediate,Strength Building,Back,Bridge,4,6
+Intermediate,Strength Building,Back,Bridge,4,8
+Advanced,Strength Building,Back,Bridge,4,4
+Advanced,Strength Building,Back,Bridge,4,6
+Beginner,Strength Building,Back,Side Plank,3,15
+Beginner,Strength Building,Back,Side Plank,3,20
+Intermediate,Strength Building,Back,Side Plank,3,20
+Intermediate,Strength Building,Back,Side Plank,3,30
+Advanced,Strength Building,Back,Side Plank,3,10
+Advanced,Strength Building,Back,Side Plank,3,15
+Beginner,Strength Building,Back,Arm Raise,4,8
+Beginner,Strength Building,Back,Arm Raise,4,10
+Intermediate,Strength Building,Back,Arm Raise,4,6
+Intermediate,Strength Building,Back,Arm Raise,4,8
+Advanced,Strength Building,Back,Arm Raise,4,4
+Advanced,Strength Building,Back,Arm Raise,4,6
+Beginner,Strength Building,Back,Leg Raise,4,8
+Beginner,Strength Building,Back,Leg Raise,4,10
+Intermediate,Strength Building,Back,Leg Raise,4,6
+Intermediate,Strength Building,Back,Leg Raise,4,8
+Advanced,Strength Building,Back,Leg Raise,4,4
+Advanced,Strength Building,Back,Leg Raise,4,6
+Beginner,Strength Building,Back,Side Lunge,4,8
+Beginner,Strength Building,Back,Side Lunge,4,10
+Intermediate,Strength Building,Back,Side Lunge,4,6
+Intermediate,Strength Building,Back,Side Lunge,4,8
+Advanced,Strength Building,Back,Side Lunge,4,4
+Advanced,Strength Building,Back,Side Lunge,4,6
+Beginner,Strength Building,Back,Standing Toe Touch,3,15
+Beginner,Strength Building,Back,Standing Toe Touch,3,20
+Intermediate,Strength Building,Back,Standing Toe Touch,3,20
+Intermediate,Strength Building,Back,Standing Toe Touch,3,30
+Advanced,Strength Building,Back,Standing Toe Touch,3,10
+Advanced,Strength Building,Back,Standing Toe Touch,3,15
+Beginner,Strength Building,Back,Deadlift,4,8
+Beginner,Strength Building,Back,Deadlift,4,10
+Intermediate,Strength Building,Back,Deadlift,4,4
+Intermediate,Strength Building,Back,Deadlift,4,6
+Advanced,Strength Building,Back,Deadlift,4,4
+Advanced,Strength Building,Back,Deadlift,4,5
+Beginner,Strength Building,Back,Triceps Dip,4,8
+Beginner,Strength Building,Back,Triceps Dip,4,10
+Intermediate,Strength Building,Back,Triceps Dip,4,6
+Intermediate,Strength Building,Back,Triceps Dip,4,8
+Advanced,Strength Building,Back,Triceps Dip,4,4
+Advanced,Strength Building,Back,Triceps Dip,4,6
+Beginner,Strength Building,Back,Shoulder Press,4,8
+Beginner,Strength Building,Back,Shoulder Press,4,10
+Intermediate,Strength Building,Back,Shoulder Press,4,6
+Intermediate,Strength Building,Back,Shoulder Press,4,8
+Advanced,Strength Building,Back,Shoulder Press,4,4
+Advanced,Strength Building,Back,Shoulder Press,4,6
+Beginner,Strength Building,Back,Calf Raise,4,10
+Beginner,Strength Building,Back,Calf Raise,4,12
+Intermediate,Strength Building,Back,Calf Raise,4,8
+Intermediate,Strength Building,Back,Calf Raise,4,10
+Advanced,Strength Building,Back,Calf Raise,4,8
+Advanced,Strength Building,Back,Calf Raise,4,10
+Beginner,Endurance Improvement,Abs,Squat Push-Up,4,8
+Beginner,Endurance Improvement,Abs,Squat Push-Up,4,10
+Intermediate,Endurance Improvement,Abs,Squat Push-Up,4,6
+Intermediate,Endurance Improvement,Abs,Squat Push-Up,4,8
+Advanced,Endurance Improvement,Abs,Squat Push-Up,4,4
+Advanced,Endurance Improvement,Abs,Squat Push-Up,4,6
+Beginner,Endurance Improvement,Abs,Plank,3,20
+Beginner,Endurance Improvement,Abs,Plank,3,30
+Intermediate,Endurance Improvement,Abs,Plank,3,30
+Intermediate,Endurance Improvement,Abs,Plank,3,45
+Advanced,Endurance Improvement,Abs,Plank,3,15
+Advanced,Endurance Improvement,Abs,Plank,3,20
+Beginner,Endurance Improvement,Abs,Bridge,4,8
+Beginner,Endurance Improvement,Abs,Bridge,4,10
+Intermediate,Endurance Improvement,Abs,Bridge,4,6
+Intermediate,Endurance Improvement,Abs,Bridge,4,8
+Advanced,Endurance Improvement,Abs,Bridge,4,4
+Advanced,Endurance Improvement,Abs,Bridge,4,6
+Beginner,Endurance Improvement,Abs,Side Plank,3,15
+Beginner,Endurance Improvement,Abs,Side Plank,3,20
+Intermediate,Endurance Improvement,Abs,Side Plank,3,20
+Intermediate,Endurance Improvement,Abs,Side Plank,3,30
+Advanced,Endurance Improvement,Abs,Side Plank,3,10
+Advanced,Endurance Improvement,Abs,Side Plank,3,15
+Beginner,Endurance Improvement,Abs,Arm Raise,4,8
+Beginner,Endurance Improvement,Abs,Arm Raise,4,10
+Intermediate,Endurance Improvement,Abs,Arm Raise,4,6
+Intermediate,Endurance Improvement,Abs,Arm Raise,4,8
+Advanced,Endurance Improvement,Abs,Arm Raise,4,4
+Advanced,Endurance Improvement,Abs,Arm Raise,4,6
+Beginner,Endurance Improvement,Abs,Leg Raise,4,8
+Beginner,Endurance Improvement,Abs,Leg Raise,4,10
+Intermediate,Endurance Improvement,Abs,Leg Raise,4,6
+Intermediate,Endurance Improvement,Abs,Leg Raise,4,8
+Advanced,Endurance Improvement,Abs,Leg Raise,4,4
+Advanced,Endurance Improvement,Abs,Leg Raise,4,6
+Beginner,Endurance Improvement,Abs,Side Lunge,4,8
+Beginner,Endurance Improvement,Abs,Side Lunge,4,10
+Intermediate,Endurance Improvement,Abs,Side Lunge,4,6
+Intermediate,Endurance Improvement,Abs,Side Lunge,4,8
+Advanced,Endurance Improvement,Abs,Side Lunge,4,4
+Advanced,Endurance Improvement,Abs,Side Lunge,4,6
+Beginner,Endurance Improvement,Abs,Standing Toe Touch,3,15
+Beginner,Endurance Improvement,Abs,Standing Toe Touch,3,20
+Intermediate,Endurance Improvement,Abs,Standing Toe Touch,3,20
+Intermediate,Endurance Improvement,Abs,Standing Toe Touch,3,30
+Advanced,Endurance Improvement,Abs,Standing Toe Touch,3,10
+Advanced,Endurance Improvement,Abs,Standing Toe Touch,3,15
+Beginner,Endurance Improvement,Abs,Deadlift,4,8
+Beginner,Endurance Improvement,Abs,Deadlift,4,10
+Intermediate,Endurance Improvement,Abs,Deadlift,4,4
+Intermediate,Endurance Improvement,Abs,Deadlift,4,6
+Advanced,Endurance Improvement,Abs,Deadlift,4,4
+Advanced,Endurance Improvement,Abs,Deadlift,4,5
+Beginner,Endurance Improvement,Abs,Triceps Dip,4,8
+Beginner,Endurance Improvement,Abs,Triceps Dip,4,10
+Intermediate,Endurance Improvement,Abs,Triceps Dip,4,6
+Intermediate,Endurance Improvement,Abs,Triceps Dip,4,8
+Advanced,Endurance Improvement,Abs,Triceps Dip,4,4
+Advanced,Endurance Improvement,Abs,Triceps Dip,4,6
+Beginner,Endurance Improvement,Abs,Shoulder Press,4,8
+Beginner,Endurance Improvement,Abs,Shoulder Press,4,10
+Intermediate,Endurance Improvement,Abs,Shoulder Press,4,6
+Intermediate,Endurance Improvement,Abs,Shoulder Press,4,8
+Advanced,Endurance Improvement,Abs,Shoulder Press,4,4
+Advanced,Endurance Improvement,Abs,Shoulder Press,4,6
+Beginner,Endurance Improvement,Abs,Calf Raise,4,10
+Beginner,Endurance Improvement,Abs,Calf Raise,4,12
+Intermediate,Endurance Improvement,Abs,Calf Raise,4,8
+Intermediate,Endurance Improvement,Abs,Calf Raise,4,10
+Advanced,Endurance Improvement,Abs,Calf Raise,4,8
+Advanced,Endurance Improvement,Abs,Calf Raise,4,10
+Beginner,Flexibility Enhancement,Legs,Squat Push-Up,4,8
+Beginner,Flexibility Enhancement,Legs,Squat Push-Up,4,10
+Intermediate,Flexibility Enhancement,Legs,Squat Push-Up,4,6
+Intermediate,Flexibility Enhancement,Legs,Squat Push-Up,4,8
+Advanced,Flexibility Enhancement,Legs,Squat Push-Up,4,4
+Advanced,Flexibility Enhancement,Legs,Squat Push-Up,4,6
+Beginner,Flexibility Enhancement,Legs,Plank,3,20
+Beginner,Flexibility Enhancement,Legs,Plank,3,30
+Intermediate,Flexibility Enhancement,Legs,Plank,3,30
+Intermediate,Flexibility Enhancement,Legs,Plank,3,45
+Advanced,Flexibility Enhancement,Legs,Plank,3,15
+Advanced,Flexibility Enhancement,Legs,Plank,3,20
+Beginner,Flexibility Enhancement,Legs,Bridge,4,8
+Beginner,Flexibility Enhancement,Legs,Bridge,4,10
+Intermediate,Flexibility Enhancement,Legs,Bridge,4,6
+Intermediate,Flexibility Enhancement,Legs,Bridge,4,8
+Advanced,Flexibility Enhancement,Legs,Bridge,4,4
+Advanced,Flexibility Enhancement,Legs,Bridge,4,6
+Beginner,Flexibility Enhancement,Legs,Side Plank,3,15
+Beginner,Flexibility Enhancement,Legs,Side Plank,3,20
+Intermediate,Flexibility Enhancement,Legs,Side Plank,3,20
+Intermediate,Flexibility Enhancement,Legs,Side Plank,3,30
+Advanced,Flexibility Enhancement,Legs,Side Plank,3,10
+Advanced,Flexibility Enhancement,Legs,Side Plank,3,15
+Beginner,Flexibility Enhancement,Legs,Arm Raise,4,8
+Beginner,Flexibility Enhancement,Legs,Arm Raise,4,10
+Intermediate,Flexibility Enhancement,Legs,Arm Raise,4,6
+Intermediate,Flexibility Enhancement,Legs,Arm Raise,4,8
+Advanced,Flexibility Enhancement,Legs,Arm Raise,4,4
+Advanced,Flexibility Enhancement,Legs,Arm Raise,4,6
+Beginner,Flexibility Enhancement,Legs,Leg Raise,4,8
+Beginner,Flexibility Enhancement,Legs,Leg Raise,4,10
+Intermediate,Flexibility Enhancement,Legs,Leg Raise,4,6
+Intermediate,Flexibility Enhancement,Legs,Leg Raise,4,8
+Advanced,Flexibility Enhancement,Legs,Leg Raise,4,4
+Advanced,Flexibility Enhancement,Legs,Leg Raise,4,6
+Beginner,Flexibility Enhancement,Legs,Side Lunge,4,8
+Beginner,Flexibility Enhancement,Legs,Side Lunge,4,10
+Intermediate,Flexibility Enhancement,Legs,Side Lunge,4,6
+Intermediate,Flexibility Enhancement,Legs,Side Lunge,4,8
+Advanced,Flexibility Enhancement,Legs,Side Lunge,4,4
+Advanced,Flexibility Enhancement,Legs,Side Lunge,4,6
+Beginner,Flexibility Enhancement,Legs,Standing Toe Touch,3,15
+Beginner,Flexibility Enhancement,Legs,Standing Toe Touch,3,20
+Intermediate,Flexibility Enhancement,Legs,Standing Toe Touch,3,20
+Intermediate,Flexibility Enhancement,Legs,Standing Toe Touch,3,30
+Advanced,Flexibility Enhancement,Legs,Standing Toe Touch,3,10
+Advanced,Flexibility Enhancement,Legs,Standing Toe Touch,3,15
+Beginner,Flexibility Enhancement,Legs,Deadlift,4,8
+Beginner,Flexibility Enhancement,Legs,Deadlift,4,10
+Intermediate,Flexibility Enhancement,Legs,Deadlift,4,4
+Intermediate,Flexibility Enhancement,Legs,Deadlift,4,6
+Advanced,Flexibility Enhancement,Legs,Deadlift,4,4
+Advanced,Flexibility Enhancement,Legs,Deadlift,4,5
+Beginner,Flexibility Enhancement,Legs,Triceps Dip,4,8
+Beginner,Flexibility Enhancement,Legs,Triceps Dip,4,10
+Intermediate,Flexibility Enhancement,Legs,Triceps Dip,4,6
+Intermediate,Flexibility Enhancement,Legs,Triceps Dip,4,8
+Advanced,Flexibility Enhancement,Legs,Triceps Dip,4,4
+Advanced,Flexibility Enhancement,Legs,Triceps Dip,4,6
+Beginner,Flexibility Enhancement,Legs,Shoulder Press,4,8
+Beginner,Flexibility Enhancement,Legs,Shoulder Press,4,10
+Intermediate,Flexibility Enhancement,Legs,Shoulder Press,4,6
+Intermediate,Flexibility Enhancement,Legs,Shoulder Press,4,8
+Advanced,Flexibility Enhancement,Legs,Shoulder Press,4,4
+Advanced,Flexibility Enhancement,Legs,Shoulder Press,4,6
+Beginner,Flexibility Enhancement,Legs,Calf Raise,4,10
+Beginner,Flexibility Enhancement,Legs,Calf Raise,4,12
+Intermediate,Flexibility Enhancement,Legs,Calf Raise,4,8
+Intermediate,Flexibility Enhancement,Legs,Calf Raise,4,10
+Advanced,Flexibility Enhancement,Legs,Calf Raise,4,8
+Advanced,Flexibility Enhancement,Legs,Calf Raise,4,10
+Advanced,Strength Building,Legs,Arm Raise,1,12
+Advanced,Strength Building,Legs,Arm Raise,1,15
+Advanced,Strength Building,Legs,Arm Raise,2,12
+Advanced,Strength Building,Legs,Arm Raise,2,15
+Advanced,Strength Building,Legs,Arm Raise,3,12
+Advanced,Strength Building,Legs,Arm Raise,3,15
+Advanced,Strength Building,Legs,Arm Raise,4,12
+Advanced,Strength Building,Legs,Arm Raise,4,15
+Advanced,Strength Building,Legs,Bridge,1,12
+Advanced,Strength Building,Legs,Bridge,1,15
+Advanced,Strength Building,Legs,Bridge,2,12
+Advanced,Strength Building,Legs,Bridge,2,15
+Advanced,Strength Building,Legs,Bridge,3,12
+Advanced,Strength Building,Legs,Bridge,3,15
+Advanced,Strength Building,Legs,Bridge,4,12
+Advanced,Strength Building,Legs,Bridge,4,15
+Advanced,Strength Building,Legs,Calf Raise,1,12
+Advanced,Strength Building,Legs,Calf Raise,1,15
+Advanced,Strength Building,Legs,Calf Raise,2,12
+Advanced,Strength Building,Legs,Calf Raise,2,15
+Advanced,Strength Building,Legs,Calf Raise,3,12
+Advanced,Strength Building,Legs,Calf Raise,3,15
+Advanced,Strength Building,Legs,Calf Raise,4,12
+Advanced,Strength Building,Legs,Calf Raise,4,15
+Advanced,Strength Building,Legs,Deadlift,1,12
+Advanced,Strength Building,Legs,Deadlift,1,15
+Advanced,Strength Building,Legs,Deadlift,2,12
+Advanced,Strength Building,Legs,Deadlift,2,15
+Advanced,Strength Building,Legs,Deadlift,3,12
+Advanced,Strength Building,Legs,Deadlift,3,15
+Advanced,Strength Building,Legs,Deadlift,4,12
+Advanced,Strength Building,Legs,Deadlift,4,15
+Advanced,Strength Building,Legs,Leg Raise,1,12
+Advanced,Strength Building,Legs,Leg Raise,1,15
+Advanced,Strength Building,Legs,Leg Raise,2,12
+Advanced,Strength Building,Legs,Leg Raise,2,15
+Advanced,Strength Building,Legs,Leg Raise,3,12
+Advanced,Strength Building,Legs,Leg Raise,3,15
+Advanced,Strength Building,Legs,Leg Raise,4,12
+Advanced,Strength Building,Legs,Leg Raise,4,15
+Advanced,Strength Building,Legs,Plank,1,12
+Advanced,Strength Building,Legs,Plank,1,15
+Advanced,Strength Building,Legs,Plank,2,12
+Advanced,Strength Building,Legs,Plank,2,15
+Advanced,Strength Building,Legs,Plank,3,12
+Advanced,Strength Building,Legs,Plank,3,15
+Advanced,Strength Building,Legs,Plank,4,12
+Advanced,Strength Building,Legs,Plank,4,15
+Advanced,Strength Building,Legs,Shoulder Press,1,12
+Advanced,Strength Building,Legs,Shoulder Press,1,15
+Advanced,Strength Building,Legs,Shoulder Press,2,12
+Advanced,Strength Building,Legs,Shoulder Press,2,15
+Advanced,Strength Building,Legs,Shoulder Press,3,12
+Advanced,Strength Building,Legs,Shoulder Press,3,15
+Advanced,Strength Building,Legs,Shoulder Press,4,12
+Advanced,Strength Building,Legs,Shoulder Press,4,15
+Advanced,Strength Building,Legs,Side Lunge,1,12
+Advanced,Strength Building,Legs,Side Lunge,1,15
+Advanced,Strength Building,Legs,Side Lunge,2,12
+Advanced,Strength Building,Legs,Side Lunge,2,15
+Advanced,Strength Building,Legs,Side Lunge,3,12
+Advanced,Strength Building,Legs,Side Lunge,3,15
+Advanced,Strength Building,Legs,Side Lunge,4,12
+Advanced,Strength Building,Legs,Side Lunge,4,15
+Advanced,Strength Building,Legs,Side Plank,1,12
+Advanced,Strength Building,Legs,Side Plank,1,15
+Advanced,Strength Building,Legs,Side Plank,2,12
+Advanced,Strength Building,Legs,Side Plank,2,15
+Advanced,Strength Building,Legs,Side Plank,3,12
+Advanced,Strength Building,Legs,Side Plank,3,15
+Advanced,Strength Building,Legs,Side Plank,4,12
+Advanced,Strength Building,Legs,Side Plank,4,15
+Advanced,Strength Building,Legs,Squat Push-Up,1,12
+Advanced,Strength Building,Legs,Squat Push-Up,1,15
+Advanced,Strength Building,Legs,Squat Push-Up,2,12
+Advanced,Strength Building,Legs,Squat Push-Up,2,15
+Advanced,Strength Building,Legs,Squat Push-Up,3,12
+Advanced,Strength Building,Legs,Squat Push-Up,3,15
+Advanced,Strength Building,Legs,Squat Push-Up,4,12
+Advanced,Strength Building,Legs,Squat Push-Up,4,15
+Advanced,Strength Building,Legs,Standing Toe Touch,1,12
+Advanced,Strength Building,Legs,Standing Toe Touch,1,15
+Advanced,Strength Building,Legs,Standing Toe Touch,2,12
+Advanced,Strength Building,Legs,Standing Toe Touch,2,15
+Advanced,Strength Building,Legs,Standing Toe Touch,3,12
+Advanced,Strength Building,Legs,Standing Toe Touch,3,15
+Advanced,Strength Building,Legs,Standing Toe Touch,4,12
+Advanced,Strength Building,Legs,Standing Toe Touch,4,15
+Advanced,Strength Building,Legs,Triceps Dip,1,12
+Advanced,Strength Building,Legs,Triceps Dip,1,15
+Advanced,Strength Building,Legs,Triceps Dip,2,12
+Advanced,Strength Building,Legs,Triceps Dip,2,15
+Advanced,Strength Building,Legs,Triceps Dip,3,12
+Advanced,Strength Building,Legs,Triceps Dip,3,15
+Advanced,Strength Building,Legs,Triceps Dip,4,12
+Advanced,Strength Building,Legs,Triceps Dip,4,15
+Beginner,Strength Building,Legs,Arm Raise,1,6
+Beginner,Strength Building,Legs,Arm Raise,1,8
+Beginner,Strength Building,Legs,Arm Raise,2,6
+Beginner,Strength Building,Legs,Arm Raise,2,8
+Beginner,Strength Building,Legs,Arm Raise,3,6
+Beginner,Strength Building,Legs,Arm Raise,3,8
+Beginner,Strength Building,Legs,Arm Raise,4,6
+Beginner,Strength Building,Legs,Arm Raise,4,8
+Beginner,Strength Building,Legs,Bridge,1,6
+Beginner,Strength Building,Legs,Bridge,1,8
+Beginner,Strength Building,Legs,Bridge,2,6
+Beginner,Strength Building,Legs,Bridge,2,8
+Beginner,Strength Building,Legs,Bridge,3,6
+Beginner,Strength Building,Legs,Bridge,3,8
+Beginner,Strength Building,Legs,Bridge,4,6
+Beginner,Strength Building,Legs,Bridge,4,8
+Beginner,Strength Building,Legs,Calf Raise,1,6
+Beginner,Strength Building,Legs,Calf Raise,1,8
+Beginner,Strength Building,Legs,Calf Raise,2,6
+Beginner,Strength Building,Legs,Calf Raise,2,8
+Beginner,Strength Building,Legs,Calf Raise,3,6
+Beginner,Strength Building,Legs,Calf Raise,3,8
+Beginner,Strength Building,Legs,Calf Raise,4,6
+Beginner,Strength Building,Legs,Calf Raise,4,8
+Beginner,Strength Building,Legs,Deadlift,1,6
+Beginner,Strength Building,Legs,Deadlift,1,8
+Beginner,Strength Building,Legs,Deadlift,2,6
+Beginner,Strength Building,Legs,Deadlift,2,8
+Beginner,Strength Building,Legs,Deadlift,3,6
+Beginner,Strength Building,Legs,Deadlift,3,8
+Beginner,Strength Building,Legs,Deadlift,4,6
+Beginner,Strength Building,Legs,Deadlift,4,8
+Beginner,Strength Building,Legs,Leg Raise,1,6
+Beginner,Strength Building,Legs,Leg Raise,1,8
+Beginner,Strength Building,Legs,Leg Raise,2,6
+Beginner,Strength Building,Legs,Leg Raise,2,8
+Beginner,Strength Building,Legs,Leg Raise,3,6
+Beginner,Strength Building,Legs,Leg Raise,3,8
+Beginner,Strength Building,Legs,Leg Raise,4,6
+Beginner,Strength Building,Legs,Leg Raise,4,8
+Beginner,Strength Building,Legs,Plank,1,6
+Beginner,Strength Building,Legs,Plank,1,8
+Beginner,Strength Building,Legs,Plank,2,6
+Beginner,Strength Building,Legs,Plank,2,8
+Beginner,Strength Building,Legs,Plank,3,6
+Beginner,Strength Building,Legs,Plank,3,8
+Beginner,Strength Building,Legs,Plank,4,6
+Beginner,Strength Building,Legs,Plank,4,8
+Beginner,Strength Building,Legs,Shoulder Press,1,6
+Beginner,Strength Building,Legs,Shoulder Press,1,8
+Beginner,Strength Building,Legs,Shoulder Press,2,6
+Beginner,Strength Building,Legs,Shoulder Press,2,8
+Beginner,Strength Building,Legs,Shoulder Press,3,6
+Beginner,Strength Building,Legs,Shoulder Press,3,8
+Beginner,Strength Building,Legs,Shoulder Press,4,6
+Beginner,Strength Building,Legs,Shoulder Press,4,8
+Beginner,Strength Building,Legs,Side Lunge,1,6
+Beginner,Strength Building,Legs,Side Lunge,1,8
+Beginner,Strength Building,Legs,Side Lunge,2,6
+Beginner,Strength Building,Legs,Side Lunge,2,8
+Beginner,Strength Building,Legs,Side Lunge,3,6
+Beginner,Strength Building,Legs,Side Lunge,3,8
+Beginner,Strength Building,Legs,Side Lunge,4,6
+Beginner,Strength Building,Legs,Side Lunge,4,8
+Beginner,Strength Building,Legs,Side Plank,1,6
+Beginner,Strength Building,Legs,Side Plank,1,8
+Beginner,Strength Building,Legs,Side Plank,2,6
+Beginner,Strength Building,Legs,Side Plank,2,8
+Beginner,Strength Building,Legs,Side Plank,3,6
+Beginner,Strength Building,Legs,Side Plank,3,8
+Beginner,Strength Building,Legs,Side Plank,4,6
+Beginner,Strength Building,Legs,Side Plank,4,8
+Beginner,Strength Building,Legs,Squat Push-Up,1,6
+Beginner,Strength Building,Legs,Squat Push-Up,1,8
+Beginner,Strength Building,Legs,Squat Push-Up,2,6
+Beginner,Strength Building,Legs,Squat Push-Up,2,8
+Beginner,Strength Building,Legs,Squat Push-Up,3,6
+Beginner,Strength Building,Legs,Squat Push-Up,3,8
+Beginner,Strength Building,Legs,Squat Push-Up,4,6
+Beginner,Strength Building,Legs,Squat Push-Up,4,8
+Beginner,Strength Building,Legs,Standing Toe Touch,1,6
+Beginner,Strength Building,Legs,Standing Toe Touch,1,8
+Beginner,Strength Building,Legs,Standing Toe Touch,2,6
+Beginner,Strength Building,Legs,Standing Toe Touch,2,8
+Beginner,Strength Building,Legs,Standing Toe Touch,3,6
+Beginner,Strength Building,Legs,Standing Toe Touch,3,8
+Beginner,Strength Building,Legs,Standing Toe Touch,4,6
+Beginner,Strength Building,Legs,Standing Toe Touch,4,8
+Beginner,Strength Building,Legs,Triceps Dip,1,6
+Beginner,Strength Building,Legs,Triceps Dip,1,8
+Beginner,Strength Building,Legs,Triceps Dip,2,6
+Beginner,Strength Building,Legs,Triceps Dip,2,8
+Beginner,Strength Building,Legs,Triceps Dip,3,6
+Beginner,Strength Building,Legs,Triceps Dip,3,8
+Beginner,Strength Building,Legs,Triceps Dip,4,6
+Beginner,Strength Building,Legs,Triceps Dip,4,8
+Intermediate,Strength Building,Legs,Arm Raise,1,8
+Intermediate,Strength Building,Legs,Arm Raise,1,12
+Intermediate,Strength Building,Legs,Arm Raise,2,8
+Intermediate,Strength Building,Legs,Arm Raise,2,12
+Intermediate,Strength Building,Legs,Arm Raise,3,8
+Intermediate,Strength Building,Legs,Arm Raise,3,12
+Intermediate,Strength Building,Legs,Arm Raise,4,8
+Intermediate,Strength Building,Legs,Arm Raise,4,12
+Intermediate,Strength Building,Legs,Bridge,1,8
+Intermediate,Strength Building,Legs,Bridge,1,12
+Intermediate,Strength Building,Legs,Bridge,2,8
+Intermediate,Strength Building,Legs,Bridge,2,12
+Intermediate,Strength Building,Legs,Bridge,3,8
+Intermediate,Strength Building,Legs,Bridge,3,12
+Intermediate,Strength Building,Legs,Bridge,4,8
+Intermediate,Strength Building,Legs,Bridge,4,12
+Intermediate,Strength Building,Legs,Calf Raise,1,8
+Intermediate,Strength Building,Legs,Calf Raise,1,12
+Intermediate,Strength Building,Legs,Calf Raise,2,8
+Intermediate,Strength Building,Legs,Calf Raise,2,12
+Intermediate,Strength Building,Legs,Calf Raise,3,8
+Intermediate,Strength Building,Legs,Calf Raise,3,12
+Intermediate,Strength Building,Legs,Calf Raise,4,8
+Intermediate,Strength Building,Legs,Calf Raise,4,12
+Intermediate,Strength Building,Legs,Deadlift,1,8
+Intermediate,Strength Building,Legs,Deadlift,1,12
+Intermediate,Strength Building,Legs,Deadlift,2,8
+Intermediate,Strength Building,Legs,Deadlift,2,12
+Intermediate,Strength Building,Legs,Deadlift,3,8
+Intermediate,Strength Building,Legs,Deadlift,3,12
+Intermediate,Strength Building,Legs,Deadlift,4,8
+Intermediate,Strength Building,Legs,Deadlift,4,12
+Intermediate,Strength Building,Legs,Leg Raise,1,8
+Intermediate,Strength Building,Legs,Leg Raise,1,12
+Intermediate,Strength Building,Legs,Leg Raise,2,8
+Intermediate,Strength Building,Legs,Leg Raise,2,12
+Intermediate,Strength Building,Legs,Leg Raise,3,8
+Intermediate,Strength Building,Legs,Leg Raise,3,12
+Intermediate,Strength Building,Legs,Leg Raise,4,8
+Intermediate,Strength Building,Legs,Leg Raise,4,12
+Intermediate,Strength Building,Legs,Plank,1,8
+Intermediate,Strength Building,Legs,Plank,1,12
+Intermediate,Strength Building,Legs,Plank,2,8
+Intermediate,Strength Building,Legs,Plank,2,12
+Intermediate,Strength Building,Legs,Plank,3,8
+Intermediate,Strength Building,Legs,Plank,3,12
+Intermediate,Strength Building,Legs,Plank,4,8
+Intermediate,Strength Building,Legs,Plank,4,12
+Intermediate,Strength Building,Legs,Shoulder Press,1,8
+Intermediate,Strength Building,Legs,Shoulder Press,1,12
+Intermediate,Strength Building,Legs,Shoulder Press,2,8
+Intermediate,Strength Building,Legs,Shoulder Press,2,12
+Intermediate,Strength Building,Legs,Shoulder Press,3,8
+Intermediate,Strength Building,Legs,Shoulder Press,3,12
+Intermediate,Strength Building,Legs,Shoulder Press,4,8
+Intermediate,Strength Building,Legs,Shoulder Press,4,12
+Intermediate,Strength Building,Legs,Side Lunge,1,8
+Intermediate,Strength Building,Legs,Side Lunge,1,12
+Intermediate,Strength Building,Legs,Side Lunge,2,8
+Intermediate,Strength Building,Legs,Side Lunge,2,12
+Intermediate,Strength Building,Legs,Side Lunge,3,8
+Intermediate,Strength Building,Legs,Side Lunge,3,12
+Intermediate,Strength Building,Legs,Side Lunge,4,8
+Intermediate,Strength Building,Legs,Side Lunge,4,12
+Intermediate,Strength Building,Legs,Side Plank,1,8
+Intermediate,Strength Building,Legs,Side Plank,1,12
+Intermediate,Strength Building,Legs,Side Plank,2,8
+Intermediate,Strength Building,Legs,Side Plank,2,12
+Intermediate,Strength Building,Legs,Side Plank,3,8
+Intermediate,Strength Building,Legs,Side Plank,3,12
+Intermediate,Strength Building,Legs,Side Plank,4,8
+Intermediate,Strength Building,Legs,Side Plank,4,12
+Intermediate,Strength Building,Legs,Squat Push-Up,1,8
+Intermediate,Strength Building,Legs,Squat Push-Up,1,12
+Intermediate,Strength Building,Legs,Squat Push-Up,2,8
+Intermediate,Strength Building,Legs,Squat Push-Up,2,12
+Intermediate,Strength Building,Legs,Squat Push-Up,3,8
+Intermediate,Strength Building,Legs,Squat Push-Up,3,12
+Intermediate,Strength Building,Legs,Squat Push-Up,4,8
+Intermediate,Strength Building,Legs,Squat Push-Up,4,12
+Intermediate,Strength Building,Legs,Standing Toe Touch,1,8
+Intermediate,Strength Building,Legs,Standing Toe Touch,1,12
+Intermediate,Strength Building,Legs,Standing Toe Touch,2,8
+Intermediate,Strength Building,Legs,Standing Toe Touch,2,12
+Intermediate,Strength Building,Legs,Standing Toe Touch,3,8
+Intermediate,Strength Building,Legs,Standing Toe Touch,3,12
+Intermediate,Strength Building,Legs,Standing Toe Touch,4,8
+Intermediate,Strength Building,Legs,Standing Toe Touch,4,12
+Intermediate,Strength Building,Legs,Triceps Dip,1,8
+Intermediate,Strength Building,Legs,Triceps Dip,1,12
+Intermediate,Strength Building,Legs,Triceps Dip,2,8
+Intermediate,Strength Building,Legs,Triceps Dip,2,12
+Intermediate,Strength Building,Legs,Triceps Dip,3,8
+Intermediate,Strength Building,Legs,Triceps Dip,3,12
+Intermediate,Strength Building,Legs,Triceps Dip,4,8
+Intermediate,Strength Building,Legs,Triceps Dip,4,12
+Beginner,Strength Building,Legs,Squat Push-Up,1,6
+Beginner,Strength Building,Legs,Squat Push-Up,2,6
+Beginner,Strength Building,Legs,Squat Push-Up,3,6
+Beginner,Strength Building,Legs,Squat Push-Up,4,6
+Beginner,Strength Building,Legs,Plank,1,6
+Beginner,Strength Building,Legs,Plank,2,6
+Beginner,Strength Building,Legs,Plank,3,6
+Beginner,Strength Building,Legs,Plank,4,6
+Beginner,Strength Building,Legs,Bridge,1,6
+Beginner,Strength Building,Legs,Bridge,2,6
+Beginner,Strength Building,Legs,Bridge,3,6
+Beginner,Strength Building,Legs,Bridge,4,6
+Beginner,Strength Building,Legs,Side Plank,1,6
+Beginner,Strength Building,Legs,Side Plank,2,6
+Beginner,Strength Building,Legs,Side Plank,3,6
+Beginner,Strength Building,Legs,Side Plank,4,6
+Beginner,Strength Building,Legs,Arm Raise,1,6
+Beginner,Strength Building,Legs,Arm Raise,2,6
+Beginner,Strength Building,Legs,Arm Raise,3,6
+Beginner,Strength Building,Legs,Arm Raise,4,6
+Beginner,Strength Building,Legs,Leg Raise,1,6
+Beginner,Strength Building,Legs,Leg Raise,2,6
+Beginner,Strength Building,Legs,Leg Raise,3,6
+Beginner,Strength Building,Legs,Leg Raise,4,6
+Beginner,Strength Building,Legs,Side Lunge,1,6
+Beginner,Strength Building,Legs,Side Lunge,2,6
+Beginner,Strength Building,Legs,Side Lunge,3,6
+Beginner,Strength Building,Legs,Side Lunge,4,6
+Beginner,Strength Building,Legs,Standing Toe Touch,1,6
+Beginner,Strength Building,Legs,Standing Toe Touch,2,6
+Beginner,Strength Building,Legs,Standing Toe Touch,3,6
+Beginner,Strength Building,Legs,Standing Toe Touch,4,6
+Beginner,Strength Building,Legs,Deadlift,1,6
+Beginner,Strength Building,Legs,Deadlift,2,6
+Beginner,Strength Building,Legs,Deadlift,3,6
+Beginner,Strength Building,Legs,Deadlift,4,6
+Beginner,Strength Building,Legs,Triceps Dip,1,6
+Beginner,Strength Building,Legs,Triceps Dip,2,6
+Beginner,Strength Building,Legs,Triceps Dip,3,6
+Beginner,Strength Building,Legs,Triceps Dip,4,6
+Beginner,Strength Building,Legs,Shoulder Press,1,6
+Beginner,Strength Building,Legs,Shoulder Press,2,6
+Beginner,Strength Building,Legs,Shoulder Press,3,6
+Beginner,Strength Building,Legs,Shoulder Press,4,6
+Beginner,Strength Building,Legs,Calf Raise,1,6
+Beginner,Strength Building,Legs,Calf Raise,2,6
+Beginner,Strength Building,Legs,Calf Raise,3,6
+Beginner,Strength Building,Legs,Calf Raise,4,6
+Intermediate,Strength Building,Legs,Squat Push-Up,1,8
+Intermediate,Strength Building,Legs,Squat Push-Up,2,8
+Intermediate,Strength Building,Legs,Squat Push-Up,3,8
+Intermediate,Strength Building,Legs,Squat Push-Up,4,8
+Intermediate,Strength Building,Legs,Plank,1,8
+Intermediate,Strength Building,Legs,Plank,2,8
+Intermediate,Strength Building,Legs,Plank,3,8
+Intermediate,Strength Building,Legs,Plank,4,8
+Intermediate,Strength Building,Legs,Bridge,1,8
+Intermediate,Strength Building,Legs,Bridge,2,8
+Intermediate,Strength Building,Legs,Bridge,3,8
+Intermediate,Strength Building,Legs,Bridge,4,8
+Intermediate,Strength Building,Legs,Side Plank,1,8
+Intermediate,Strength Building,Legs,Side Plank,2,8
+Intermediate,Strength Building,Legs,Side Plank,3,8
+Intermediate,Strength Building,Legs,Side Plank,4,8
+Intermediate,Strength Building,Legs,Arm Raise,1,8
+Intermediate,Strength Building,Legs,Arm Raise,2,8
+Intermediate,Strength Building,Legs,Arm Raise,3,8
+Intermediate,Strength Building,Legs,Arm Raise,4,8
+Intermediate,Strength Building,Legs,Leg Raise,1,8
+Intermediate,Strength Building,Legs,Leg Raise,2,8
+Intermediate,Strength Building,Legs,Leg Raise,3,8
+Intermediate,Strength Building,Legs,Leg Raise,4,8
+Intermediate,Strength Building,Legs,Side Lunge,1,8
+Intermediate,Strength Building,Legs,Side Lunge,2,8
+Intermediate,Strength Building,Legs,Side Lunge,3,8
+Intermediate,Strength Building,Legs,Side Lunge,4,8
+Intermediate,Strength Building,Legs,Standing Toe Touch,1,8
+Intermediate,Strength Building,Legs,Standing Toe Touch,2,8
+Intermediate,Strength Building,Legs,Standing Toe Touch,3,8
+Intermediate,Strength Building,Legs,Standing Toe Touch,4,8
+Intermediate,Strength Building,Legs,Deadlift,1,8
+Intermediate,Strength Building,Legs,Deadlift,2,8
+Intermediate,Strength Building,Legs,Deadlift,3,8
+Intermediate,Strength Building,Legs,Deadlift,4,8
+Intermediate,Strength Building,Legs,Triceps Dip,1,8
+Intermediate,Strength Building,Legs,Triceps Dip,2,8
+Intermediate,Strength Building,Legs,Triceps Dip,3,8
+Intermediate,Strength Building,Legs,Triceps Dip,4,8
+Intermediate,Strength Building,Legs,Shoulder Press,1,8
+Intermediate,Strength Building,Legs,Shoulder Press,2,8
+Intermediate,Strength Building,Legs,Shoulder Press,3,8
+Intermediate,Strength Building,Legs,Shoulder Press,4,8
+Intermediate,Strength Building,Legs,Calf Raise,1,8
+Intermediate,Strength Building,Legs,Calf Raise,2,8
+Intermediate,Strength Building,Legs,Calf Raise,3,8
+Intermediate,Strength Building,Legs,Calf Raise,4,8
+Advanced,Strength Building,Legs,Squat Push-Up,1,12
+Advanced,Strength Building,Legs,Squat Push-Up,2,12
+Advanced,Strength Building,Legs,Squat Push-Up,3,12
+Advanced,Strength Building,Legs,Squat Push-Up,4,12
+Advanced,Strength Building,Legs,Plank,1,12
+Advanced,Strength Building,Legs,Plank,2,12
+Advanced,Strength Building,Legs,Plank,3,12
+Advanced,Strength Building,Legs,Plank,4,12
+Advanced,Strength Building,Legs,Bridge,1,12
+Advanced,Strength Building,Legs,Bridge,2,12
+Advanced,Strength Building,Legs,Bridge,3,12
+Advanced,Strength Building,Legs,Bridge,4,12
+Advanced,Strength Building,Legs,Side Plank,1,12
+Advanced,Strength Building,Legs,Side Plank,2,12
+Advanced,Strength Building,Legs,Side Plank,3,12
+Advanced,Strength Building,Legs,Side Plank,4,12
+Advanced,Strength Building,Legs,Arm Raise,1,12
+Advanced,Strength Building,Legs,Arm Raise,2,12
+Advanced,Strength Building,Legs,Arm Raise,3,12
+Advanced,Strength Building,Legs,Arm Raise,4,12
+Advanced,Strength Building,Legs,Leg Raise,1,12
+Advanced,Strength Building,Legs,Leg Raise,2,12
+Advanced,Strength Building,Legs,Leg Raise,3,12
+Advanced,Strength Building,Legs,Leg Raise,4,12
+Advanced,Strength Building,Legs,Side Lunge,1,12
+Advanced,Strength Building,Legs,Side Lunge,2,12
+Advanced,Strength Building,Legs,Side Lunge,3,12
+Advanced,Strength Building,Legs,Side Lunge,4,12
+Advanced,Strength Building,Legs,Standing Toe Touch,1,12
+Advanced,Strength Building,Legs,Standing Toe Touch,2,12
+Advanced,Strength Building,Legs,Standing Toe Touch,3,12
+Advanced,Strength Building,Legs,Standing Toe Touch,4,12
+Advanced,Strength Building,Legs,Deadlift,1,12
+Advanced,Strength Building,Legs,Deadlift,2,12
+Advanced,Strength Building,Legs,Deadlift,3,12
+Advanced,Strength Building,Legs,Deadlift,4,12
+Advanced,Strength Building,Legs,Triceps Dip,1,12
+Advanced,Strength Building,Legs,Triceps Dip,2,12
+Advanced,Strength Building,Legs,Triceps Dip,3,12
+Advanced,Strength Building,Legs,Triceps Dip,4,12
+Advanced,Strength Building,Legs,Shoulder Press,1,12
+Advanced,Strength Building,Legs,Shoulder Press,2,12
+Advanced,Strength Building,Legs,Shoulder Press,3,12
+Advanced,Strength Building,Legs,Shoulder Press,4,12
+Advanced,Strength Building,Legs,Calf Raise,1,12
+Advanced,Strength Building,Legs,Calf Raise,2,12
+Advanced,Strength Building,Legs,Calf Raise,3,12
+Advanced,Strength Building,Legs,Calf Raise,4,12
+Beginner,Strength Building,Legs,Squat Push-Up,1,8
+Beginner,Strength Building,Legs,Squat Push-Up,2,8
+Beginner,Strength Building,Legs,Squat Push-Up,3,8
+Beginner,Strength Building,Legs,Squat Push-Up,4,8
+Beginner,Strength Building,Legs,Plank,1,8
+Beginner,Strength Building,Legs,Plank,2,8
+Beginner,Strength Building,Legs,Plank,3,8
+Beginner,Strength Building,Legs,Plank,4,8
+Beginner,Strength Building,Legs,Bridge,1,8
+Beginner,Strength Building,Legs,Bridge,2,8
+Beginner,Strength Building,Legs,Bridge,3,8
+Beginner,Strength Building,Legs,Bridge,4,8
+Beginner,Strength Building,Legs,Side Plank,1,8
+Beginner,Strength Building,Legs,Side Plank,2,8
+Beginner,Strength Building,Legs,Side Plank,3,8
+Beginner,Strength Building,Legs,Side Plank,4,8
+Beginner,Strength Building,Legs,Arm Raise,1,8
+Beginner,Strength Building,Legs,Arm Raise,2,8
+Beginner,Strength Building,Legs,Arm Raise,3,8
+Beginner,Strength Building,Legs,Arm Raise,4,8
+Beginner,Strength Building,Legs,Leg Raise,1,8
+Beginner,Strength Building,Legs,Leg Raise,2,8
+Beginner,Strength Building,Legs,Leg Raise,3,8
+Beginner,Strength Building,Legs,Leg Raise,4,8
+Beginner,Strength Building,Legs,Side Lunge,1,8
+Beginner,Strength Building,Legs,Side Lunge,2,8
+Beginner,Strength Building,Legs,Side Lunge,3,8
+Beginner,Strength Building,Legs,Side Lunge,4,8
+Beginner,Strength Building,Legs,Standing Toe Touch,1,8
+Beginner,Strength Building,Legs,Standing Toe Touch,2,8
+Beginner,Strength Building,Legs,Standing Toe Touch,3,8
+Beginner,Strength Building,Legs,Standing Toe Touch,4,8
+Beginner,Strength Building,Legs,Deadlift,1,8
+Beginner,Strength Building,Legs,Deadlift,2,8
+Beginner,Strength Building,Legs,Deadlift,3,8
+Beginner,Strength Building,Legs,Deadlift,4,8
+Beginner,Strength Building,Legs,Triceps Dip,1,8
+Beginner,Strength Building,Legs,Triceps Dip,2,8
+Beginner,Strength Building,Legs,Triceps Dip,3,8
+Beginner,Strength Building,Legs,Triceps Dip,4,8
+Beginner,Strength Building,Legs,Shoulder Press,1,8
+Beginner,Strength Building,Legs,Shoulder Press,2,8
+Beginner,Strength Building,Legs,Shoulder Press,3,8
+Beginner,Strength Building,Legs,Shoulder Press,4,8
+Beginner,Strength Building,Legs,Calf Raise,1,8
+Beginner,Strength Building,Legs,Calf Raise,2,8
+Beginner,Strength Building,Legs,Calf Raise,3,8
+Beginner,Strength Building,Legs,Calf Raise,4,8
+Intermediate,Strength Building,Legs,Squat Push-Up,1,12
+Intermediate,Strength Building,Legs,Squat Push-Up,2,12
+Intermediate,Strength Building,Legs,Squat Push-Up,3,12
+Intermediate,Strength Building,Legs,Squat Push-Up,4,12
+Intermediate,Strength Building,Legs,Plank,1,12
+Intermediate,Strength Building,Legs,Plank,2,12
+Intermediate,Strength Building,Legs,Plank,3,12
+Intermediate,Strength Building,Legs,Plank,4,12
+Intermediate,Strength Building,Legs,Bridge,1,12
+Intermediate,Strength Building,Legs,Bridge,2,12
+Intermediate,Strength Building,Legs,Bridge,3,12
+Intermediate,Strength Building,Legs,Bridge,4,12
+Intermediate,Strength Building,Legs,Side Plank,1,12
+Intermediate,Strength Building,Legs,Side Plank,2,12
+Intermediate,Strength Building,Legs,Side Plank,3,12
+Intermediate,Strength Building,Legs,Side Plank,4,12
+Intermediate,Strength Building,Legs,Arm Raise,1,12
+Intermediate,Strength Building,Legs,Arm Raise,2,12
+Intermediate,Strength Building,Legs,Arm Raise,3,12
+Intermediate,Strength Building,Legs,Arm Raise,4,12
+Intermediate,Strength Building,Legs,Leg Raise,1,12
+Intermediate,Strength Building,Legs,Leg Raise,2,12
+Intermediate,Strength Building,Legs,Leg Raise,3,12
+Intermediate,Strength Building,Legs,Leg Raise,4,12
+Intermediate,Strength Building,Legs,Side Lunge,1,12
+Intermediate,Strength Building,Legs,Side Lunge,2,12
+Intermediate,Strength Building,Legs,Side Lunge,3,12
+Intermediate,Strength Building,Legs,Side Lunge,4,12
+Intermediate,Strength Building,Legs,Standing Toe Touch,1,12
+Intermediate,Strength Building,Legs,Standing Toe Touch,2,12
+Intermediate,Strength Building,Legs,Standing Toe Touch,3,12
+Intermediate,Strength Building,Legs,Standing Toe Touch,4,12
+Intermediate,Strength Building,Legs,Deadlift,1,12
+Intermediate,Strength Building,Legs,Deadlift,2,12
+Intermediate,Strength Building,Legs,Deadlift,3,12
+Intermediate,Strength Building,Legs,Deadlift,4,12
+Intermediate,Strength Building,Legs,Triceps Dip,1,12
+Intermediate,Strength Building,Legs,Triceps Dip,2,12
+Intermediate,Strength Building,Legs,Triceps Dip,3,12
+Intermediate,Strength Building,Legs,Triceps Dip,4,12
+Intermediate,Strength Building,Legs,Shoulder Press,1,12
+Intermediate,Strength Building,Legs,Shoulder Press,2,12
+Intermediate,Strength Building,Legs,Shoulder Press,3,12
+Intermediate,Strength Building,Legs,Shoulder Press,4,12
+Intermediate,Strength Building,Legs,Calf Raise,1,12
+Intermediate,Strength Building,Legs,Calf Raise,2,12
+Intermediate,Strength Building,Legs,Calf Raise,3,12
+Intermediate,Strength Building,Legs,Calf Raise,4,12
+Advanced,Strength Building,Legs,Squat Push-Up,1,15
+Advanced,Strength Building,Legs,Squat Push-Up,2,15
+Advanced,Strength Building,Legs,Squat Push-Up,3,15
+Advanced,Strength Building,Legs,Squat Push-Up,4,15
+Advanced,Strength Building,Legs,Plank,1,15
+Advanced,Strength Building,Legs,Plank,2,15
+Advanced,Strength Building,Legs,Plank,3,15
+Advanced,Strength Building,Legs,Plank,4,15
+Advanced,Strength Building,Legs,Bridge,1,15
+Advanced,Strength Building,Legs,Bridge,2,15
+Advanced,Strength Building,Legs,Bridge,3,15
+Advanced,Strength Building,Legs,Bridge,4,15
+Advanced,Strength Building,Legs,Side Plank,1,15
+Advanced,Strength Building,Legs,Side Plank,2,15
+Advanced,Strength Building,Legs,Side Plank,3,15
+Advanced,Strength Building,Legs,Side Plank,4,15
+Advanced,Strength Building,Legs,Arm Raise,1,15
+Advanced,Strength Building,Legs,Arm Raise,2,15
+Advanced,Strength Building,Legs,Arm Raise,3,15
+Advanced,Strength Building,Legs,Arm Raise,4,15
+Advanced,Strength Building,Legs,Leg Raise,1,15
+Advanced,Strength Building,Legs,Leg Raise,2,15
+Advanced,Strength Building,Legs,Leg Raise,3,15
+Advanced,Strength Building,Legs,Leg Raise,4,15
+Advanced,Strength Building,Legs,Side Lunge,1,15
+Advanced,Strength Building,Legs,Side Lunge,2,15
+Advanced,Strength Building,Legs,Side Lunge,3,15
+Advanced,Strength Building,Legs,Side Lunge,4,15
+Advanced,Strength Building,Legs,Standing Toe Touch,1,15
+Advanced,Strength Building,Legs,Standing Toe Touch,2,15
+Advanced,Strength Building,Legs,Standing Toe Touch,3,15
+Advanced,Strength Building,Legs,Standing Toe Touch,4,15
+Advanced,Strength Building,Legs,Deadlift,1,15
+Advanced,Strength Building,Legs,Deadlift,2,15
+Advanced,Strength Building,Legs,Deadlift,3,15
+Advanced,Strength Building,Legs,Deadlift,4,15
+Advanced,Strength Building,Legs,Triceps Dip,1,15
+Advanced,Strength Building,Legs,Triceps Dip,2,15
+Advanced,Strength Building,Legs,Triceps Dip,3,15
+Advanced,Strength Building,Legs,Triceps Dip,4,15
+Advanced,Strength Building,Legs,Shoulder Press,1,15
+Advanced,Strength Building,Legs,Shoulder Press,2,15
+Advanced,Strength Building,Legs,Shoulder Press,3,15
+Advanced,Strength Building,Legs,Shoulder Press,4,15
+Advanced,Strength Building,Legs,Calf Raise,1,15
+Advanced,Strength Building,Legs,Calf Raise,2,15
+Advanced,Strength Building,Legs,Calf Raise,3,15
+Advanced,Strength Building,Legs,Calf Raise,4,15
